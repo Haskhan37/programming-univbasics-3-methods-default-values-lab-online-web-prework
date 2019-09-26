@@ -1,1 +1,2 @@
-def meal_choice(veg1, veg2, protein# Your code here
+def meal_choice(veg1, veg2, protein="meat"
+  # Your code here
