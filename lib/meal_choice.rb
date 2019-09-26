@@ -1,2 +1,3 @@
 def meal_choice(veg1, veg2, protein="meat"
-  # Your code here
+  
+  puts# Your code here
